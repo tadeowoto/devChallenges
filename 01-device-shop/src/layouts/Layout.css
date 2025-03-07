@@ -1,0 +1,7 @@
+.bg-mobile {
+  background-image: url("/background-image.png");
+}
+
+.bg-desktop {
+  background-image: url("/background-image@2x.png");
+}
