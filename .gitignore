@@ -1,0 +1,10 @@
+# Ignorar node_modules en cualquier nivel
+node_modules/
+
+# Ignorar archivos generados por Vite
+dist/
+.vite/
+
+# Ignorar otros archivos opcionales
+*.log
+*.lock
